@@ -1,0 +1,21 @@
+{
+  "name": "liveconnect",
+  "version": "1.0.0",
+  "description": "This is a real-time chat platform where users can connect and communicate instantly. It is built using the MERN stack—comprising MongoDB, Express.js, React.js, and Node.js—along with Socket.io for real-time communication, Redux Toolkit for state management, and Tailwind CSS for styling.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.22.9",
+    "@babel/core": "^7.22.9",
+    "@babel/preset-env": "^7.22.9",
+    "@babel/preset-react": "^7.22.5",
+    "babel-loader": "^9.1.3",
+    "prettier": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
